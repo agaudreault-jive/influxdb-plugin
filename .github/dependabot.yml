@@ -9,5 +9,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 100
     commit-message:
-      prefix: "chore: [NS]" # Maximum of 15 char
+      prefix: "chore: [NS] " # Maximum of 15 char
