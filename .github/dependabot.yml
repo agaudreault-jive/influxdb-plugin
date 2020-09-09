@@ -10,4 +10,4 @@ updates:
     schedule:
       interval: "daily"
     commit-message:
-      prefix: "chore(deps): [NS]"
+      prefix: "chore: [NS]" # Maximum of 15 char
