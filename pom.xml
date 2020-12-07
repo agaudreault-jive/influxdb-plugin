@@ -207,7 +207,7 @@ THE SOFTWARE.
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>perfpublisher</artifactId>
-            <version>8.05</version>
+            <version>8.09</version>
             <optional>true</optional>
         </dependency>
 
