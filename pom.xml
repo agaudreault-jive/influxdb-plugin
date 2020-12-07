@@ -48,7 +48,7 @@ THE SOFTWARE.
 
     <properties>
         <jenkins.version>2.195</jenkins.version>
-        <workflow.version>2.12</workflow.version>
+        <workflow.version>2.23</workflow.version>
         <spotbugs.failOnError>false</spotbugs.failOnError>
         <java.level>8</java.level>
         <hpi.compatibleSinceVersion>2.0</hpi.compatibleSinceVersion>
